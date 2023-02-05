@@ -11,3 +11,6 @@ Graphs spotify listening history across the year
 run `simplify_data.py` with your spotify myData folder as a commandline argument
 
 optional: add your csv file to `spotify_display.pde` and run it for a nicer looking graph
+
+#### Example:
+![IMG_2789](https://user-images.githubusercontent.com/73131292/216853066-d33f2f3c-ae71-4669-a877-facf2b4ec1f2.jpg)
